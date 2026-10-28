@@ -1,0 +1,24 @@
+{
+  "dock_apps": [
+    "com.netflix.ninja",
+    "com.amazon.amazonvideo.livingroom",
+    "com.google.android.youtube.tv",
+    "in.startv.hotstar"
+  ],
+  "hidden_apps": [
+    "com.mediatek.wwtv.tvcenter",
+    "com.mitv.gallery"
+  ],
+  "columns": 5,
+  "rows_below_dock": 1,
+  "reduced_motion": false,
+  "background_color": "#020603",
+  "wallpaper": true,
+  "wallpaper_dim": 22,
+  "wallpaper_true_color": false,
+  "always_show_names": false,
+  "animations": true,
+  "advanced_effects": false,
+  "app_library": true,
+  "greeting_name": "Anonymous"
+}
